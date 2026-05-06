@@ -142,11 +142,11 @@ AI-powered React UI Component Generator:
 
 <p align="left">
 <a href="https://linkedin.com/in/vishweshupadhyay" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin-right: 15px;"/>
 </a>
 
 <a href="https://leetcode.com/Vishwesh234/" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/leetcode" height="40" />
+<img align="center" src="https://cdn.simpleicons.org/leetcode" height="40" style="margin-right: 15px;/>
 </a>
 
 <a href="mailto:vishweshu823@gmail.com">
