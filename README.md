@@ -145,6 +145,10 @@ AI-powered React UI Component Generator:
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
+<a href="https://leetcode.com/Vishwesh234/" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/leetcode" height="40" />
+</a>
+
 <a href="mailto:vishweshu823@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
